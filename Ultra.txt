@@ -1,0 +1,10 @@
+Amplify:Ratio="316.22775"
+BassAndTreble:Bass="-16" Gain="-4" Link_Sliders="0" Treble="-9"
+Normalize:ApplyGain="1" PeakLevel="0" RemoveDcOffset="1" StereoIndependent="0"
+Sc4:Attack_time_(ms)="270" Knee_radius_(dB)="7.3270001" Makeup_gain_(dB)="16.872" Ratio_(1_n)="7.6690001" Release_time_(ms)="152.02003" RMS_peak="0.1" Threshold_level_(dB)="-9.8699999"
+Sc4:Attack_time_(ms)="270" Knee_radius_(dB)="7.3270001" Makeup_gain_(dB)="16.872" Ratio_(1_n)="7.6690001" Release_time_(ms)="152.02003" RMS_peak="0.1" Threshold_level_(dB)="-9.8699999"
+Duplicate:
+Duplicate:
+MixAndRender:
+Amplify:Ratio="31.622776"
+LoudnessNormalization:DualMono="1" LUFSLevel="-5" NormalizeTo="0" RMSLevel="-20" StereoIndependent="0"
